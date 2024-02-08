@@ -6,4 +6,6 @@ This repository contains a simple stock app built using Matplotlib, Streamlit, a
 - Streamlit
 - yfinance
 
-  ## Preview ![stock app](https://github.com/VivekKumar-8287/Simple-Stock-App/assets/104918205/36546f31-0ef8-433d-9ce6-c59d3d590254)
+  ## Preview
+  
+  ![stock app](https://github.com/VivekKumar-8287/Simple-Stock-App/assets/104918205/36546f31-0ef8-433d-9ce6-c59d3d590254)
